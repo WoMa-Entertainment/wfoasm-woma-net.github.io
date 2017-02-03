@@ -19,6 +19,7 @@ body {
 #menubar {
     width: 200px;
     float: left
+    margin: 0 0px;
 }
 
 #main {
@@ -35,7 +36,7 @@ body {
     position: relative;
     overflow: auto;
 }
-/*
+
 #bottom {
     border: 1px solid #d4d4d4;
     background-color: #f1f1f1;
@@ -44,7 +45,7 @@ body {
     font-size: 70%;
     line-height: 14px;
     float: bottom;
-}*/
+}
 
 #top h1, #top p, #menulist {
     margin: 0;
