@@ -54,12 +54,17 @@ body {
     cursor: pointer;
 }
 
-.menuitem:hover {
-    background-color: #ffffff;
+.menuitem:first-child:hover {
+    background-color: #00fff0;
+    color: black;
 }
 
 .menuitem:first-child {
    background-color:#4C50AF;
    color: white;
    font-weight:bold;
+}
+
+a {
+    text-decoration:none;
 }
