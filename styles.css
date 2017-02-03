@@ -11,8 +11,8 @@ body {
 }
 
 #top {
-    background-color: #4CAF50;
-    color: #ffffff;
+    background-color: #4C50AF;
+    color: #fefefe;
     padding: 15px;
 }
 
@@ -26,11 +26,11 @@ body {
     margin: 0 210px;
 }
 
-
+/*
 .container {
     xmin-width: 900px;
 }
-
+*/
 .wrapper {
     position: relative;
     overflow: auto;
@@ -63,7 +63,7 @@ body {
 }
 
 .menuitem:first-child {
-   background-color:#4CAF50;
+   background-color:#4C50AF;
    color: white;
    font-weight:bold;
 }
