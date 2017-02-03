@@ -26,11 +26,11 @@ body {
     margin: 0 210px;
 }
 
-/*
+
 .container {
     xmin-width: 900px;
 }
-*/
+
 .wrapper {
     position: relative;
     overflow: auto;
@@ -43,6 +43,7 @@ body {
     padding: 10px;
     font-size: 70%;
     line-height: 14px;
+    float: bottom;
 }
 
 #top h1, #top p, #menulist {
