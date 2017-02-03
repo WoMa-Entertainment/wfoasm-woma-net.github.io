@@ -68,3 +68,7 @@ body {
 a {
     text-decoration:none;
 }
+
+.nobr {
+    white-space: nowrap;
+}
