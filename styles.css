@@ -5,7 +5,7 @@ body {
     background-color:powderblue;
 }
 
-#top, #sidebar, #bottom, .menuitem {
+#top, #bottom, .menuitem {
     border-radius: 4px;
     margin: 4px;
 }
@@ -18,7 +18,7 @@ body {
 
 #menubar {
     width: 200px;
-    float: left
+    float: left;
     margin: 0 0px;
 }
 
@@ -44,7 +44,6 @@ body {
     padding: 10px;
     font-size: 70%;
     line-height: 14px;
-    float: bottom;
 }
 
 #top h1, #top p, #menulist {
